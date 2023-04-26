@@ -15,6 +15,5 @@ public class TenxTen {
         System.out.println(Arrays.toString(arr10x10[7]));
         System.out.println(Arrays.toString(arr10x10[8]));
         System.out.println(Arrays.toString(arr10x10[9]));
-
     }
 }
