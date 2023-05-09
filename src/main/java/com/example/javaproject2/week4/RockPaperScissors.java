@@ -3,7 +3,7 @@ package com.example.javaproject2.week4;
 import java.util.Random;
 import java.util.Scanner;
 
-public class RockScissorsPaperTillWin {
+public class RockPaperScissors {
     public static void main(String[] args) {
         public String play(int user, int computer){
             if (user == 0 && computer == 1) {
